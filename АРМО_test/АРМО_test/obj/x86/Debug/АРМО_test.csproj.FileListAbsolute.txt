@@ -1,0 +1,13 @@
+D:\AIV\Deloping\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.Properties.Resources.resources
+D:\AIV\Deloping\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.csproj.GenerateResource.Cache
+D:\AIV\Developing\АРМО_test\АРМО_test\bin\Debug\АРМО_test.exe
+D:\AIV\Developing\АРМО_test\АРМО_test\bin\Debug\АРМО_test.pdb
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.Properties.Resources.resources
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.csproj.GenerateResource.Cache
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.exe
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.pdb
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\ARMO_test.ARMO_test_Form.resources
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.Controls.DirectorySource.resources
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.Controls.SearchFilter.resources
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.Controls.UserTreeView.resources
+D:\AIV\Developing\АРМО_test\АРМО_test\obj\x86\Debug\АРМО_test.csprojResolveAssemblyReference.cache
